@@ -69,7 +69,7 @@ export default function HelpPage() {
             If you couldn't find the answer to your question, feel free to contact our support team.
           </p>
           <Link
-            href="mailto:support@geo-generator.com"
+            href="#"
             className="inline-block bg-gray-700 hover:bg-gray-600 text-white px-6 py-3 rounded-md"
           >
             Contact Support
