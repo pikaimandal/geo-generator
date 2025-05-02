@@ -115,7 +115,7 @@ export default function Home() {
       <header className="w-full max-w-6xl mx-auto px-4 py-8">
         <nav className="flex justify-between items-center mb-16">
           <div className="flex items-center gap-2">
-            <Image src="/logo.png" alt="GEO Generator Logo" width={40} height={40} priority />
+            <Image src="/GeoGenerator.png" alt="GEO Generator Logo" width={40} height={40} priority />
             <span className="text-xl font-bold">GEO Generator</span>
           </div>
           <div className="flex gap-6">
